@@ -1,4 +1,4 @@
-body{
+body, p{
     margin: 0;
     padding: 0;    
 }
@@ -17,13 +17,15 @@ body{
     height: 40vh;
     margin: 1vw 1vh;
     float: left;
-    background-image: url(../source/image/cat.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
-.imtext{
+#container ul li img{
+    width: 20vw;
+    height: 36vh;
+}
+#container ul li p{
     line-height: 4vh;
-    margin: 36vh 0 0;
     text-align: center;
     color: white;
     background-color: brown;
