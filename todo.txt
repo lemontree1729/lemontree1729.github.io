@@ -1,8 +1,0 @@
-1. Div homepage to make navbar
-    - navbar should include 'Introduce, Projects, Practice'
-
-2. 
-
-
-long times later.
-    - Make login system
